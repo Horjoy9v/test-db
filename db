@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Назва першого товару",
+      "available": true,
+      "description": "Опис першого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
+        },
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Назва другого товару",
+      "available": false,
+      "description": "Опис другого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Назва третього товару",
+      "available": true,
+      "description": "Опис третього товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
+        },
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
+        }
+      ]
+    }
+  ]
+}
