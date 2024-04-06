@@ -8,21 +8,23 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "1-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "1-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "1-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "1-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Samsung",
+      "price": 999
     },
     {
       "id": "2",
@@ -32,17 +34,19 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Samsung",
+      "price": 999
     },
     {
       "id": "3",
@@ -52,29 +56,31 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "3-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Samsung",
+      "price": 999
     },
     {
       "id": "4",
@@ -84,21 +90,23 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "4-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "4-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "4-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "4-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Iphone",
+      "price": 999
     },
     {
       "id": "5",
@@ -108,13 +116,19 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "5-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "5-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
+        },
+        {
+          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Iphone",
+      "price": 999
     },
     {
       "id": "6",
@@ -124,17 +138,19 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "6-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "6-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "6-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Samsung",
+      "price": 999
     },
     {
       "id": "7",
@@ -144,13 +160,15 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "7-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "7-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Xiaomi",
+      "price": 999
     },
     {
       "id": "8",
@@ -160,21 +178,23 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "8-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "8-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "8-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "8-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Xiaomi",
+      "price": 999
     },
     {
       "id": "9",
@@ -184,25 +204,27 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "9-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "9-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "9-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "9-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "9-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Xiaomi",
+      "price": 999
     },
     {
       "id": "10",
@@ -212,17 +234,19 @@
       "images": [
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "10-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "10-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
           "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "10-09-07-19-10-IMG-3444"
+          "alt": "2020-09-07-19-10-IMG-3444"
         }
-      ]
+      ],
+      "brand": "Xiaomi",
+      "price": 999
     }
   ]
 }
