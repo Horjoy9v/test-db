@@ -326,37 +326,61 @@
         }
       ],
       "brand": "Xiaomi",
-      "price": 25999
+      "price": 21999
     },
     {
       "id": "9",
-      "name": "Назва дев'ятого товару",
+      "name": "Xiaomi 13T Pro",
       "available": true,
       "description": "Опис дев'ятого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/pvGygvn/27732054-1.png",
+          "alt": "27732054_1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/pvGygvn/27732054-2.png",
+          "alt": "27732054_2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/pvGygvn/27732054-3.png",
+          "alt": "27732054_3"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/pvGygvn/27732054-4.png",
+          "alt": "27732054_4"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/pvGygvn/27732054-5.png",
+          "alt": "27732054_5"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-6.png",
+          "alt": "27732054_6"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-7.png",
+          "alt": "27732054_7"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-8.png",
+          "alt": "27732054_8"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-9.png",
+          "alt": "27732054_9"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-10.png",
+          "alt": "27732054_10"
+        },
+        {
+          "src": "https://i.ibb.co/pvGygvn/27732054-11.png",
+          "alt": "27732054_11"
         }
       ],
       "brand": "Xiaomi",
-      "price": 999
+      "price": 24999
     },
     {
       "id": "10",
