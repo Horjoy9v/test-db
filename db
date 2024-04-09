@@ -2,25 +2,41 @@
   "products": [
     {
       "id": "1",
-      "name": "Samsung S23",
+      "name": "Samsung Galaxy S23",
       "available": true,
       "description": "Опис першого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/YyjJM6v/photo-2024-04-09-14-26-05.jpg",
-          "alt": "photo-2024-04-09-14-25-40"
+          "src": "https://i.ibb.co/vjZ31tz/27474194-1.png",
+          "alt": "27474194-1"
         },
         {
-          "src": "https://i.ibb.co/YyjJM6v/photo-2024-04-09-14-26-05.jpg",
-          "alt": "photo-2024-04-09-14-25-40"
+          "src": "https://i.ibb.co/6BXg5S9/27474194-2.png",
+          "alt": "27474194-2"
         },
         {
-          "src": "https://i.ibb.co/dkLw036/photo-2024-04-09-14-25-40.jpg",
-          "alt": "photo-2024-04-09-14-25-40"
+          "src": "https://i.ibb.co/jfbsHZf/27474194-3.png",
+          "alt": "27474194-3"
         },
         {
-          "src": "https://i.ibb.co/dkLw036/photo-2024-04-09-14-25-40.jpg",
-          "alt": "photo-2024-04-09-14-25-40"
+          "src": "https://i.ibb.co/bmZ1Zyz/27474194-4.png",
+          "alt": "27474194-4"
+        },
+        {
+          "src": "https://i.ibb.co/ssCJyLV/27474194-5.png",
+          "alt": "27474194-5"
+        },
+        {
+          "src": "https://i.ibb.co/jfbsHZf/27474194-6.png",
+          "alt": "27474194-6"
+        },
+        {
+          "src": "https://i.ibb.co/jfbsHZf/27474194-7.png",
+          "alt": "27474194-7"
+        },
+        {
+          "src": "https://i.ibb.co/jfbsHZf/27474194-8.png",
+          "alt": "27474194-8"
         }
       ],
       "brand": "Samsung",
@@ -28,21 +44,53 @@
     },
     {
       "id": "2",
-      "name": "Samsung S23 Ultra",
+      "name": "Samsung Galaxy S23 Ultra",
       "available": false,
       "description": "Опис другого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/nnKZgHD/photo-2024-04-09-14-37-00.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-1.png",
+          "alt": "31538394-1"
         },
         {
-          "src": "https://i.ibb.co/LYHFYfZ/photo-2024-04-09-14-26-02.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-2.png",
+          "alt": "31538394-2"
         },
         {
-          "src": "https://i.ibb.co/LYHFYfZ/photo-2024-04-09-14-26-02.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-3.png",
+          "alt": "31538394-3"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-4.png",
+          "alt": "31538394-4"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-5.png",
+          "alt": "31538394-5"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-6.png",
+          "alt": "31538394-6"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-7.png",
+          "alt": "31538394-7"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-8.png",
+          "alt": "31538394-8"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-9.png",
+          "alt": "31538394-9"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-10.png",
+          "alt": "31538394-10"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-11.png",
+          "alt": "31538394-11"
         }
       ],
       "brand": "Samsung",
@@ -50,139 +98,235 @@
     },
     {
       "id": "3",
-      "name": "Huavei P50",
+      "name": "Samsung Galaxy A25",
       "available": true,
       "description": "Опис третього товару",
       "images": [
         {
-          "src": "https://i.ibb.co/87fxz1j/photo-2024-04-09-14-25-56.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-1.png",
+          "alt": "31538394-1"
         },
         {
-          "src": "https://i.ibb.co/87fxz1j/photo-2024-04-09-14-25-56.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-2.png",
+          "alt": "31538394-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Czyg1pk/31538394-3.png",
+          "alt": "31538394-3"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-4.png",
+          "alt": "31538394-4"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-5.png",
+          "alt": "31538394-5"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-6.png",
+          "alt": "31538394-6"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-7.png",
+          "alt": "31538394-7"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-8.png",
+          "alt": "31538394-8"
+        },
+        {
+          "src": "https://i.ibb.co/Czyg1pk/31538394-9.png",
+          "alt": "31538394-9"
         }
       ],
-      "brand": "Huawei",
-      "price": 24099
+      "brand": "Samsung",
+      "price": 12199
     },
     {
       "id": "4",
-      "name": "Назва четвертого товару",
+      "name": "Samsung Galaxy S23 FE",
       "available": true,
       "description": "Опис четвертого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/jrgyhp4/27474194-1.png",
+          "alt": "27474194-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/jrgyhp4/27474194-2.png",
+          "alt": "27474194-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/jrgyhp4/27474194-3.png",
+          "alt": "27474194-3"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/jrgyhp4/27474194-4.png",
+          "alt": "27474194-4"
+        },
+        {
+          "src": "https://i.ibb.co/jrgyhp4/27474194-5.png",
+          "alt": "27474194-5"
+        },
+        {
+          "src": "https://i.ibb.co/jrgyhp4/27474194-6.png",
+          "alt": "27474194-6"
+        },
+        {
+          "src": "https://i.ibb.co/jrgyhp4/27474194-7.png",
+          "alt": "27474194-7"
+        },
+        {
+          "src": "https://i.ibb.co/jrgyhp4/27474194-8.png",
+          "alt": "27474194-8"
         }
       ],
-      "brand": "Iphone",
-      "price": 999
+      "brand": "Samsung",
+      "price": 26099
     },
     {
       "id": "5",
-      "name": "Назва п'ятого товару",
+      "name": "Apple iPhone 15 Pro Max ",
       "available": true,
       "description": "Опис п'ятого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JHwdBr6/27774591-1.png",
+          "alt": "27774591-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JHwdBr6/27774591-2.png",
+          "alt": "27774591-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JHwdBr6/27774591-3.png",
+          "alt": "27774591-3"
+        },
+        {
+          "src": "https://i.ibb.co/JHwdBr6/27774591-4.png",
+          "alt": "27774591-4"
+        },
+        {
+          "src": "https://i.ibb.co/JHwdBr6/27774591-5.png",
+          "alt": "27774591-5"
         }
       ],
-      "brand": "Iphone",
-      "price": 999
+      "brand": "Apple",
+      "price": 51999
     },
     {
       "id": "6",
-      "name": "Назва шостого товару",
+      "name": "Apple iPhone 15 Pro",
       "available": true,
       "description": "Опис шостого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JnfBGMz/28329378-1.png",
+          "alt": "28329378-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JnfBGMz/28329378-2.png",
+          "alt": "28329378-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/JnfBGMz/28329378-3.png",
+          "alt": "28329378-3"
+        },
+        {
+          "src": "https://i.ibb.co/JnfBGMz/28329378-4.png",
+          "alt": "28329378-4"
+        },
+        {
+          "src": "https://i.ibb.co/JnfBGMz/28329378-5.png",
+          "alt": "28329378-5"
         }
       ],
-      "brand": "Samsung",
-      "price": 999
+      "brand": "Apple",
+      "price": 44199
     },
     {
       "id": "7",
-      "name": "Назва сьомого товару",
+      "name": "Apple iPhone 15",
       "available": true,
       "description": "Опис сьомого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Mnx87dS/27274841-1.png",
+          "alt": "27274841-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/Mnx87dS/27274841-2.png",
+          "alt": "27274841-2"
+        },
+        {
+          "src": "https://i.ibb.co/Mnx87dS/27274841-3.png",
+          "alt": "27274841-3"
+        },
+        {
+          "src": "https://i.ibb.co/Mnx87dS/27274841-4.png",
+          "alt": "27274841-4"
+        },
+        {
+          "src": "https://i.ibb.co/Mnx87dS/27274841-5.png",
+          "alt": "27274841-5"
         }
       ],
-      "brand": "Xiaomi",
-      "price": 999
+      "brand": "Apple",
+      "price": 31899
     },
     {
       "id": "8",
-      "name": "Назва восьмого товару",
+      "name": "Xiaomi 13T",
       "available": true,
       "description": "Опис восьмого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/mGQXbFs/26882226-1.png",
+          "alt": "26882226-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/mGQXbFs/26882226-2.png",
+          "alt": "26882226-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/mGQXbFs/26882226-3.png",
+          "alt": "26882226-3"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/mGQXbFs/26882226-4.png",
+          "alt": "26882226-4"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-5.png",
+          "alt": "26882226-5"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-6.png",
+          "alt": "26882226-6"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-7.png",
+          "alt": "26882226-7"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-8.png",
+          "alt": "26882226-8"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-9.png",
+          "alt": "26882226-9"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-10.png",
+          "alt": "26882226-10"
+        },
+        {
+          "src": "https://i.ibb.co/mGQXbFs/26882226-11.png",
+          "alt": "26882226-11"
         }
       ],
       "brand": "Xiaomi",
-      "price": 999
+      "price": 25999
     },
     {
       "id": "9",
