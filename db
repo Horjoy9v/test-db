@@ -2,76 +2,64 @@
   "products": [
     {
       "id": "1",
-      "name": "Назва першого товару",
+      "name": "Samsung S23",
       "available": true,
       "description": "Опис першого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/dkLw036/photo-2024-04-09-14-25-40.jpg",
+          "alt": "photo-2024-04-09-14-25-40"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/YyjJM6v/photo-2024-04-09-14-26-05.jpg",
+          "alt": "photo-2024-04-09-14-25-40"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/dkLw036/photo-2024-04-09-14-25-40.jpg",
+          "alt": "photo-2024-04-09-14-25-40"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/dkLw036/photo-2024-04-09-14-25-40.jpg",
+          "alt": "photo-2024-04-09-14-25-40"
         }
       ],
       "brand": "Samsung",
-      "price": 999
+      "price": 24299
     },
     {
       "id": "2",
-      "name": "Назва другого товару",
+      "name": "Samsung S23 Ultra",
       "available": false,
       "description": "Опис другого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "src": "https://i.ibb.co/LYHFYfZ/photo-2024-04-09-14-26-02.jpg",
           "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "src": "https://i.ibb.co/LYHFYfZ/photo-2024-04-09-14-26-02.jpg",
           "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "src": "https://i.ibb.co/LYHFYfZ/photo-2024-04-09-14-26-02.jpg",
           "alt": "2020-09-07-19-10-IMG-3444"
         }
       ],
       "brand": "Samsung",
-      "price": 999
+      "price": 35999
     },
     {
       "id": "3",
-      "name": "Назва третього товару",
+      "name": "Huavei P50",
       "available": true,
       "description": "Опис третього товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "src": "https://i.ibb.co/87fxz1j/photo-2024-04-09-14-25-56.jpg",
           "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
-        },
-        {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
-        },
-        {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
-        },
-        {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
+          "src": "https://i.ibb.co/87fxz1j/photo-2024-04-09-14-25-56.jpg",
           "alt": "2020-09-07-19-10-IMG-3444"
         },
         {
@@ -80,7 +68,7 @@
         }
       ],
       "brand": "Huawei",
-      "price": 999
+      "price": 24099
     },
     {
       "id": "4",
