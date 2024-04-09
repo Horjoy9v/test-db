@@ -103,42 +103,43 @@
       "description": "Опис третього товару",
       "images": [
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-1.png",
-          "alt": "31538394-1"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-1.png",
+          "alt": "31538490-1"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-2.png",
-          "alt": "31538394-2"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-2.png",
+          "alt": "31538490-2"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-3.png",
-          "alt": "31538394-3"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-3.png",
+          "alt": "31538490-3"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-4.png",
-          "alt": "31538394-4"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-4.png",
+          "alt": "31538490-4"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-5.png",
-          "alt": "31538394-5"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-5.png",
+          "alt": "31538490-5"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-6.png",
-          "alt": "31538394-6"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-6.png",
+          "alt": "31538490-6"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-7.png",
-          "alt": "31538394-7"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-7.png",
+          "alt": "31538490-7"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-8.png",
-          "alt": "31538394-8"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-8.png",
+          "alt": "31538490-8"
         },
         {
-          "src": "https://i.ibb.co/Czyg1pk/31538394-9.png",
-          "alt": "31538394-9"
+          "src": "https://i.ibb.co/Czyg1pk/31538490-9.png",
+          "alt": "31538490-9"
         }
       ],
+
       "brand": "Samsung",
       "price": 12199
     },
