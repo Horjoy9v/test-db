@@ -335,47 +335,47 @@
       "description": "Опис дев'ятого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-1.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-1.png",
           "alt": "27732054_1"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-2.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-2.png",
           "alt": "27732054_2"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-3.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-3.png",
           "alt": "27732054_3"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-4.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-4.png",
           "alt": "27732054_4"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-5.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-5.png",
           "alt": "27732054_5"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-6.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-6.png",
           "alt": "27732054_6"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-7.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-7.png",
           "alt": "27732054_7"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-8.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-8.png",
           "alt": "27732054_8"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-9.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-9.png",
           "alt": "27732054_9"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-10.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-10.png",
           "alt": "27732054_10"
         },
         {
-          "src": "https://i.ibb.co/pvGygvn/27732054-11.png",
+          "src": "https://i.ibb.co/X2H9XVg/27732054-11.png",
           "alt": "27732054_11"
         }
       ],
@@ -384,25 +384,197 @@
     },
     {
       "id": "10",
-      "name": "Назва десятого товару",
+      "name": "Xiaomi 13C",
       "available": true,
       "description": "Опис десятого товару",
       "images": [
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/MDzWqTj/29639372-1.png",
+          "alt": "29639372-1"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/MDzWqTj/29639372-2.png",
+          "alt": "29639372-2"
         },
         {
-          "src": "https://i.ibb.co/rcBZHQZ/2020-09-07-19-10-IMG-3444.jpg",
-          "alt": "2020-09-07-19-10-IMG-3444"
+          "src": "https://i.ibb.co/MDzWqTj/29639372-3.png",
+          "alt": "29639372-3"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-4.png",
+          "alt": "29639372-4"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-5.png",
+          "alt": "29639372-5"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-6.png",
+          "alt": "29639372-6"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-7.png",
+          "alt": "29639372-7"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-8.png",
+          "alt": "29639372-8"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-9.png",
+          "alt": "29639372-9"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-10.png",
+          "alt": "29639372-10"
+        },
+        {
+          "src": "https://i.ibb.co/MDzWqTj/29639372-11.png",
+          "alt": "29639372-11"
         }
       ],
       "brand": "Xiaomi",
-      "price": 999
+      "price": 5999
+    },
+    {
+      "id": "11",
+      "name": "Infinix Hot 30i X669D",
+      "available": true,
+      "description": "Опис десятого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-1.png",
+          "alt": "23652821-1"
+        },
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-2.png",
+          "alt": "23652821-2"
+        },
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-3.png",
+          "alt": "23652821-3"
+        },
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-4.png",
+          "alt": "23652821-4"
+        },
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-5.png",
+          "alt": "23652821-5"
+        },
+        {
+          "src": "https://i.ibb.co/Qc16yfc/23652821-6.png",
+          "alt": "23652821-6"
+        }
+      ],
+      "brand": "Infinix",
+      "price": 5999
+    },
+    {
+      "id": "12",
+      "name": "Infinix HOT 30.",
+      "available": true,
+      "description": "Опис десятого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/4JNByVK/27854560-1.png",
+          "alt": "27854560-1"
+        },
+        {
+          "src": "https://i.ibb.co/4JNByVK/27854560-2.png",
+          "alt": "27854560-2"
+        },
+        {
+          "src": "https://i.ibb.co/4JNByVK/27854560-3.png",
+          "alt": "27854560-3"
+        },
+        {
+          "src": "https://i.ibb.co/4JNByVK/27854560-4.png",
+          "alt": "27854560-4"
+        },
+        {
+          "src": "https://i.ibb.co/4JNByVK/27854560-5.png",
+          "alt": "27854560-5"
+        }
+      ],
+      "brand": "Infinix",
+      "price": 4844
+    },
+    {
+      "id": "13",
+      "name": "Infinix Note 30 Pro",
+      "available": true,
+      "description": "Опис десятого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-2.png",
+          "alt": "24605309-2"
+        },
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-3.png",
+          "alt": "24605309-3"
+        },
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-4.png",
+          "alt": "24605309-4"
+        },
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-5.png",
+          "alt": "24605309-5"
+        },
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-6.png",
+          "alt": "24605309-6"
+        },
+        {
+          "src": "https://i.ibb.co/QFfbGMk/24605309-7.png",
+          "alt": "24605309-7"
+        }
+      ],
+      "brand": "Infinix",
+      "price": 8899
+    },
+    {
+      "id": "14",
+      "name": "Oscal 80c",
+      "available": true,
+      "description": "Опис десятого товару",
+      "images": [
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-1.png",
+          "alt": "166970419146417-1"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-2.png",
+          "alt": "166970419146417-2"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-3.png",
+          "alt": "166970419146417-3"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-4.png",
+          "alt": "166970419146417-4"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-5.png",
+          "alt": "166970419146417-5"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-6.png",
+          "alt": "166970419146417-6"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-7.png",
+          "alt": "166970419146417-7"
+        },
+        {
+          "src": "https://i.ibb.co/HddmmZ3/166970419146417-8.png",
+          "alt": "166970419146417-8"
+        }
+      ],
+      "brand": "Oscal",
+      "price": 4781
     }
   ]
 }
