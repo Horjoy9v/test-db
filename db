@@ -40,7 +40,8 @@
         }
       ],
       "brand": "Samsung",
-      "price": 24299
+      "price": 24299,
+"sales":20
     },
     {
       "id": "2",
@@ -94,7 +95,8 @@
         }
       ],
       "brand": "Samsung",
-      "price": 35999
+      "price": 35999,
+"sales":20
     },
     {
       "id": "3",
@@ -140,7 +142,8 @@
         }
       ],
       "brand": "Samsung",
-      "price": 12199
+      "price": 12199,
+"sales":20
     },
     {
       "id": "4",
@@ -182,7 +185,8 @@
         }
       ],
       "brand": "Samsung",
-      "price": 26099
+      "price": 26099,
+"sales":20
     },
     {
       "id": "5",
