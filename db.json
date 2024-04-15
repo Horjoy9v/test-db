@@ -20,7 +20,7 @@
   },
   {
     "id": "2",
-    "name": "Samsung Galaxy S231 Ultra",
+    "name": "Samsung Galaxy S2313 Ultra",
     "available": false,
     "description": "Опис другого товару",
     "images": [
@@ -44,7 +44,7 @@
     ],
     "brand": "Samsung",
     "price": 35999,
-    "sales": "2"
+    "sales": "234"
   },
   {
     "id": "3",
